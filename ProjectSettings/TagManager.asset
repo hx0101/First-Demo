@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Death
+  - MainCanvas
+  - AudioManager
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - BackGround
+  - InsideGround
+  - 
+  - 
+  - Player
+  - 
+  - 
+  - Enemy
+  - 
+  - Death
+  - 
+  - OutsideGround
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Camera
+  - Post processing
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 738674505
+    locked: 0
+  - name: InsideGround
+    uniqueID: 1829291843
+    locked: 0
+  - name: NPC
+    uniqueID: 1207803847
+    locked: 0
+  - name: Player
+    uniqueID: 1131325217
+    locked: 0
+  - name: Tilemap
+    uniqueID: 1789565515
+    locked: 0
+  - name: OutsideGround
+    uniqueID: 3432639453
+    locked: 0

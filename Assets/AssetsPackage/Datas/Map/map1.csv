@@ -1,0 +1,4 @@
+编号，对应资源编号，位置，缩放，角度
+number,string,string,string,string
+ID,name,position,scale,eul
+1,Tilemap,"0.00,0.00,0.00","1.00,1.00,1.00","0.00,0.00,0.00"
